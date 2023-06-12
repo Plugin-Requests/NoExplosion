@@ -1,0 +1,9 @@
+# The name of the world where explosion destruction should be disabled:
+#   - The name of the blocks/entities that should not be allowed to destroy block in the specified world.
+#     List of blocks: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+#     List of entities: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/entity/EntityType.html
+world:
+  - PRIMED_TNT
+  - MINECART_TNT
+  - RESPAWN_ANCHOR
+  - END_CRYSTAL

@@ -1,0 +1,9 @@
+name: NoExplosion
+description: Prevents explosions from breaking blocks.
+
+author: SavageAvocado
+website: https://www.savagedev.net/
+
+main: net.savagedev.noexplosion.NoExplosionPlugin
+version: ${version}
+api-version: 1.13
